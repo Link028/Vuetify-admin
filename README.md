@@ -4,7 +4,8 @@ Vue Material Admin Template is a Vue Based Material Design Admin Template. And u
 
 screenshot
 
-![image](https://github.com/Link028/Vuetify-admin/tree/master/screenshot/1.jpg)
+![add image](https://github.com/carmen-zhy/job/raw/master/image/*.png)
+
 
 <img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/1.jpg" />
 
