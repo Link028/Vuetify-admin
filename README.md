@@ -2,7 +2,22 @@
 
 Vue Material Admin Template is a Vue Based Material Design Admin Template. And use Vuetifyjs as base framework. 
 
+screenshot
 
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/1.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/2.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/3.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/4.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/5.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/6.jpg" />
+
+<img src="https://github.com/Link028/Vuetify-admin/tree/master/screenshot/7.jpg" />
 
 ## Project setup
 ```
@@ -25,7 +40,7 @@ yarn lint
 ```
 
 
-### 本项目参考了下面的项目：
+### 鏈」鐩弬鑰冧簡涓嬮潰鐨勯」鐩細
 See [vue-material-admin](https://github.com/tookit/vue-material-admin).
 See [vue-admin-vuetify](https://github.com/vasttian/vue-admin-vuetify).
 
