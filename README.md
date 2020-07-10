@@ -4,8 +4,6 @@ Vue Material Admin Template is a Vue Based Material Design Admin Template. And u
 
 screenshot
 
-<img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/1.jpg" />
-
 <img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/2.jpg" />
 
 <img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/3.jpg" />
@@ -17,6 +15,10 @@ screenshot
 <img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/6.jpg" />
 
 <img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/7.jpg" />
+
+
+<img src="https://github.com/Link028/Vuetify-admin/blob/master/screenshot/1.jpg" />
+
 
 ## Project setup
 ```
