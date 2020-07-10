@@ -18,14 +18,14 @@
   "product_qrcode": "/img/product_qrcode.png",
   "product_name": "Data Exchange Platform",
   "product_sname": "DataLink",
-  "product_cname": "数链-数据交换平台",
+  "product_cname": "DataLink",
   "product_version": "V1.0",
-  "company_ename":"DataCube",
-  "company_name": "成都德泰库博数据科技有限公司",
-  "company_sname": "德泰库博",
-  "company_addr": "成都市高新区天府大道中段1388号1栋8层815号",
-  "company_post": "610093",
-  "company_email": "info@algomethod.com",
-  "company_tel": "028-61410701",
-  "company_site": "蜀ICP备15030207号" 
+  "company_ename":"DataLink",
+  "company_name": "DataLink",
+  "company_sname": "DataLink",
+  "company_addr": "DataLink",
+  "company_post": "DataLink",
+  "company_email": "DataLink",
+  "company_tel": "DataLink",
+  "company_site": "DataLink" 
 }
