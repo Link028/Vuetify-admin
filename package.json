@@ -21,7 +21,7 @@
     "echarts-gl": "^1.1.1",
     "echarts-liquidfill": "^2.0.5",
     "font-awesome": "^4.7.0",
-    "highlight.js": "^9.16.2",
+    "highlight.js": "^10.1.2",
     "js-cookie": "^2.2.1",
     "jsonlint": "^1.6.3",
     "lodash.truncate": "^4.4.2",
